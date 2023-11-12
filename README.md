@@ -1,5 +1,5 @@
-# 0.8.1-server-for-FalixNodes
-PocketMine 0.8.1 server for FalixNodes.
+# MCPE Alpha Server for Pterodactyl
+Bins for Pterodactyl panel
 
 # Installation
 1. Transfer files to server folder
