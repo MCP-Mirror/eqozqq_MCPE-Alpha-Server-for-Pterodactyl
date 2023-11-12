@@ -1,5 +1,6 @@
 # MCPE Alpha Server for Pterodactyl
-Bins for Pterodactyl panel
+
+Check the [releases](https://github.com/eqozqq/MCPE-Alpha-Server-for-Pterodactyl/releases)
 
 # Installation
 1. Transfer files to server folder
